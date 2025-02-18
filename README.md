@@ -72,13 +72,6 @@ A comprehensive analysis of Instacart's customer purchase patterns using market 
 - Staffing optimization
 - Reorder prediction
 
-## Future Improvements
-- Implement more sophisticated association algorithms
-- Add seasonal trend analysis
-- Develop product recommendation system
-- Include price analysis
-- Add customer segmentation
-
 ## Acknowledgments
 - Instacart for providing the dataset
 
