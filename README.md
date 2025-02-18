@@ -76,4 +76,4 @@ A comprehensive analysis of Instacart's customer purchase patterns using market 
 - Instacart for providing the dataset
 
 ---
-**Note**: This project is for educational purposes and uses a public dataset from Instacart.
+**Note**: This project is for educational purposes and uses a public dataset from Instacart - Please download this by yourself.
