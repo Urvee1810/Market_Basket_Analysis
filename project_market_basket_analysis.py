@@ -25,7 +25,7 @@ from mlxtend.frequent_patterns import association_rules
 """## **Stage 1**: Data Wrangling"""
 
 #@title Download the data
-!wget -qq https://cdn.iisc.talentsprint.com/CDS/Datasets/Instacart.zip
+!wget -qq https:// #load the data from your drive
 !unzip -qq Instacart.zip
 
 """### Load the data
